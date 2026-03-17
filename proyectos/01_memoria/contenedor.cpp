@@ -52,7 +52,7 @@ int main(){
 
     std::cout<<"___ Inicio del Programa ___"<<std::endl;
 
-    Contenedor miCaja(3);
+    Contenedor miCaja(20);
 
     std::cout<<"---El contenedor va a salir del alcance ---"<<std::endl;
 
